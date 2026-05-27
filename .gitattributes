@@ -1,0 +1,12 @@
+### `.gitattributes`
+
+```txt
+# Treat Markdown as first-class project content
+*.md linguist-detectable=true
+*.md linguist-documentation=false
+
+# Prevent helper scripts from dominating language stats
+*.sh linguist-vendored
+
+# Normalize text files
+* text=auto
