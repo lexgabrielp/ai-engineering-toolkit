@@ -1,4 +1,4 @@
-# AI Engineering OS
+# AI Engineering Toolkit
 
 A portable `.md` framework for making AI coding assistants behave more like senior engineering teammates.
 
